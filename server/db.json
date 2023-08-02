@@ -1,0 +1,25 @@
+{
+  "learnhttp": {
+    "content": "Hello World"
+  },
+  "journals": [
+    {
+      "id": "7f9c5d80-3176-11ee-b5f4-a7125be1a567",
+      "content": "Quinta",
+      "created_at": "2023-07-27T17:52:29.301202",
+      "updated_at": "2023-07-27T17:52:29.301202"
+    },
+    {
+      "id": "ff40cc50-3177-11ee-b5f4-a7125be1a567",
+      "content": "Casa muito boa",
+      "created_at": "2023-07-25T17:52:29.301202",
+      "updated_at": "2023-07-25T17:52:29.301202"
+    },
+    {
+      "id": "074b3570-3178-11ee-b5f4-a7125be1a567",
+      "content": "Fuui",
+      "created_at": "2023-07-26T17:52:29.301202",
+      "updated_at": "2023-07-26T17:52:29.301202"
+    }
+  ]
+}
