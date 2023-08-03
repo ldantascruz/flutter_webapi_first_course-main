@@ -31,7 +31,6 @@ class LoggingInterceptor implements InterceptorContract {
           Corpo: ${data.body}
         ''');
     }
-
     return data;
   }
 }

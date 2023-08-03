@@ -44,8 +44,6 @@ class JournalService {
     for (var element in listDynamic) {
       list.add(Journal.fromMap(element));
     }
-
-
     return list;
   }
 }

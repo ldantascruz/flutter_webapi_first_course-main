@@ -17,10 +17,10 @@ class AddJournalScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    _contentController.text = journal.content;
     return Scaffold(
       appBar: AppBar(
-        title: Text(
-            WeekDay(journal.createdAt).toString()),
+        title: Text(WeekDay(journal.createdAt).toString()),
         actions: [
           IconButton(
             onPressed: () {
